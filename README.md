@@ -17,7 +17,12 @@ transmitida.
 ## II Parte: Estacionaridad y Ergocidad
 
 <img src="https://raw.githubusercontent.com/asael-guillen/Proyecto4/main/ergo.png" width="550">
+Note que el valor promedio estadístico de los datos se corresponde con el valor promedio temporal,lo cual se corresponde
+con la definición de ergocidad. Sabemos que la ergocidad es una forma de estacionaridad que simplifica el análisis del 
+proceso aleatorio; además observe en la imágen que la media es constante en el tiempo.
 
 ## II Parte: Densidad espectral
 
 <img src="https://raw.githubusercontent.com/asael-guillen/Proyecto4/main/densidad.png" width="550">
+Aproximadamente a la frecuencia de 2800 Hz, se alcanza el pico más alto en el espectro y se corresponde con el valor de 140 000
+en amplitud. 

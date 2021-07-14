@@ -16,8 +16,8 @@ transmitida.
 
 ## II Parte: Estacionaridad y Ergocidad
 
-<img src="https://raw.githubusercontent.com/asael-guillen/Proyecto4/main/ergo.png" width="900">
+<img src="https://raw.githubusercontent.com/asael-guillen/Proyecto4/main/ergo.png" width="700">
 
 ## II Parte: Densidad espectral
 
-<img src="https://raw.githubusercontent.com/asael-guillen/Proyecto4/main/densidad.png" width="900">
+<img src="https://raw.githubusercontent.com/asael-guillen/Proyecto4/main/densidad.png" width="700">

@@ -4,7 +4,7 @@
 
 ## I Parte: Modulación 16-QAM
 
-<img src="https://raw.githubusercontent.com/asael-guillen/Proyecto4/main/modulacion.png" width="400">
+<img src="https://raw.githubusercontent.com/asael-guillen/Proyecto4/main/modulacion.png" width="900">
 
 ## II Parte: Estacionaridad y Ergocidad
 

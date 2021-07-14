@@ -1,4 +1,11 @@
-# Proyecto 4
+## Proyecto 4 - MPSS
+- Estudiantes: Asael Guillén Oreamuno
+- Carné: B63208
 
-![Esta es una imagen de ejemplo](https://github.com/asael-guillen/Proyecto4/blob/main/densidad.png)
+# I Parte: Modulación 16-QAM
+
+# II Parte: Estacionaridad y Ergocidad
+
+# II Parte: Densidad espectral
+
 

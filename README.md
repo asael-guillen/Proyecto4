@@ -12,10 +12,12 @@ transmitida.
 
 ### Formas de onda
 
-<img src="https://raw.githubusercontent.com/asael-guillen/Proyecto4/main/se%C3%B1ales.png" width="900">
+<img src="https://raw.githubusercontent.com/asael-guillen/Proyecto4/main/se%C3%B1ales.png" width="1000">
 
 ## II Parte: Estacionaridad y Ergocidad
 
+<img src="https://raw.githubusercontent.com/asael-guillen/Proyecto4/main/ergo.png" width="900">
+
 ## II Parte: Densidad espectral
 
-
+<img src="https://raw.githubusercontent.com/asael-guillen/Proyecto4/main/densidad.png" width="900">
